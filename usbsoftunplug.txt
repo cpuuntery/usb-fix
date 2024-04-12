@@ -1,0 +1,6 @@
+1- Device Manager -> usb device -> Details -> copy Device Instance Path
+2- devcon restart "@Device Instance Path"
+
+note "pnputil" maybe newer and included with windows but it is useful from windows "2004" and up
+
+useful link https://superuser.com/questions/1002950/quick-method-to-install-devcon-exe
